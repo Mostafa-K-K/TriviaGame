@@ -1,0 +1,5 @@
+[
+  { "key": "easy", "desc": "Easy" },
+  { "key": "medium", "desc": "Medium" },
+  { "key": "hard", "desc": "Hard" }
+]

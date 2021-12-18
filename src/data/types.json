@@ -1,0 +1,4 @@
+[
+  { "key": "multiple", "desc": "Multiple Choise" },
+  { "key": "boolean", "desc": "True or False" }
+]

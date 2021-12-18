@@ -1,0 +1,20 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color: '#F2F3F2';
+}
+
+*:focus {
+    outline: none;
+}
+
+
+*::selection {
+    background: #f5b750;
+    color: #ffffff;
+}
+
+*::-moz-selection {
+    background: #f5b750;
+    color: #ffffff;
+}
